@@ -1,2 +1,2 @@
-# Medium.com-Responsive-Frontend-Clone
-Frontend medium.com workshop. (without JS)
+# Medium.com-Frontend-Clone
+Responsive frontend medium.com workshop. (without JS)
