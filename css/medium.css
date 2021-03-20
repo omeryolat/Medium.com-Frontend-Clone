@@ -1,0 +1,49 @@
+.navbar-main:hover{
+    text-decoration:none;
+    color:rgba(0, 0, 0, 0.822);
+}
+.nav-link{
+    font-size:15px;
+    margin-right: 5px;
+    
+}
+h1{
+    font-family:'Courier New', Courier, monospace;
+    
+}
+.under-text{
+    font-size:20px;
+}
+.title{
+    font-weight: bold;
+    font-size:13px;
+}
+.article-number{
+    font-weight: bold;
+    font-size: 32px;
+    margin-left: 60%;
+    color:rgb(216, 211, 211);
+}
+.article-number2{
+    font-weight: bold;
+    font-size: 32px;
+    color:rgb(216, 211, 211);
+}
+.marg{
+    margin-top:100%;
+    padding-top:50%;
+}
+.article-title{
+    font-size: 14px;;
+}
+.article-text{
+    font-weight: bold;
+    font-size: 15px;
+}
+.article-footer{
+    font-family:inherit ;
+    font-size:13px;
+}
+.text-hover:hover{
+    text-decoration: none;
+}
